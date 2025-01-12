@@ -1,1 +1,1 @@
-# Hello world!! Welcome to my github page. This is my place to store all the assignments that i make for physicswallah data analytics courses. Feel free to browse my submittions and contact me for any opportunities or interactions.
+# Hello world!! Welcome to my github page. This is my place to store all the assignments that i make for physicswallah data analytics courses. Feel free to browse what i have submitted and contact me for any opportunities or interactions.
